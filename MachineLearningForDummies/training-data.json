@@ -1,0 +1,42 @@
+[
+  {
+    "Text": "I love this product!",
+    "Label": true
+  },
+  {
+    "Text": "This is the worst experience ever.",
+    "Label": false
+  },
+  {
+    "Text": "Absolutely fantastic!",
+    "Label": true
+  },
+  {
+    "Text": "Not worth the money.",
+    "Label": false
+  },
+  {
+    "Text": "I would recommend this to everyone.",
+    "Label": true
+  },
+  {
+    "Text": "I love this",
+    "Label": true
+  },
+  {
+    "Text": "Great stuff",
+    "Label": true
+  },
+  {
+    "Text": "Great stuff",
+    "Label": true
+  },
+  {
+    "Text": "this",
+    "Label": true
+  },
+  {
+    "Text": "bad",
+    "Label": false
+  }
+]

@@ -1,0 +1,6 @@
+@MachineLearningForDummies_HostAddress = http://localhost:5278
+
+GET {{MachineLearningForDummies_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
